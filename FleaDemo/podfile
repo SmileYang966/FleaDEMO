@@ -1,0 +1,4 @@
+target 'FleaDemo' do
+pod 'JXCategoryView'
+pod 'JXPagingView/Pager'
+end

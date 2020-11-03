@@ -1,0 +1,20 @@
+PODS:
+  - JXCategoryView (1.5.8)
+  - JXPagingView/Pager (2.0.13)
+
+DEPENDENCIES:
+  - JXCategoryView
+  - JXPagingView/Pager
+
+SPEC REPOS:
+  trunk:
+    - JXCategoryView
+    - JXPagingView
+
+SPEC CHECKSUMS:
+  JXCategoryView: 778a620f76070d6598fd8d7239991b8da8326170
+  JXPagingView: 821ed274f09eaf2843a96c3a74e9d138e27d9730
+
+PODFILE CHECKSUM: 55969f3daff61be52ed7d61972dce2333ead923a
+
+COCOAPODS: 1.9.1
